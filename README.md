@@ -1,1 +1,1 @@
-# Udemy_Python-For-Statistical-Analysis
+# Python for Statistical Analysis
